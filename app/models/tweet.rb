@@ -10,5 +10,6 @@ class Tweet < ActiveRecord::Base
       true
     end
   end
-  
+
+
 end
